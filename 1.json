@@ -1,0 +1,80 @@
+{
+    "2023-03-19T00:00:00Z": {
+        "data": [
+            {
+                "availableAt": "2023-03-19T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-20T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-03-20T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-21T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-03-21T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-22T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-03-22T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-23T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-03-23T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-24T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-03-24T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-25T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-03-25T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-03-26T00:00:00Z"
+            }
+        ]
+    },
+    "2023-05-14T00:00:00Z": {
+        "data": [
+            {
+                "availableAt": "2023-05-14T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-05-15T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-05-15T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-05-16T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-05-16T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-05-17T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-05-17T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-05-18T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-05-18T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-05-19T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-05-19T00:00:00Z",
+                "redeemedAt": null,
+                "expiresAt": "2023-05-20T00:00:00Z"
+            },
+            {
+                "availableAt": "2023-05-20T00:00:00Z",
+                "redeemedAt": "2022-05-19T02:13:26Z",
+                "expiresAt": "2023-05-21T00:00:00Z"
+            }
+        ]
+    }
+}
